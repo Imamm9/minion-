@@ -2,7 +2,7 @@
 
 # Minion 🕷️🐙  
 
-A fun Python project that uses Turtle graphics to draw a minion-inspired spider. This project is perfect for beginners looking to explore creative coding with Python!  
+A fun Python project that uses Turtle graphics to draw a minion-inspired. This project is perfect for beginners looking to explore creative coding with Python!  
   
 
 ## 📸 Screenshot 
